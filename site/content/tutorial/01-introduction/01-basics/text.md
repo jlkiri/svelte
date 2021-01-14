@@ -1,5 +1,5 @@
 ---
-title: 基本
+title: Basics
 ---
 
 Welcome to the Svelte tutorial. This will teach you everything you need to know to build fast, small web applications easily.

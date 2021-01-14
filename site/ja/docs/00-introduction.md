@@ -1,11 +1,11 @@
 ---
-title: はじめる前に
+title: Before we begin
 ---
 
-このページには、詳細なAPIリファレンスドキュメントが含まれています。これは、すでにSvelteにある程度精通している人々のためのリソースとなることを目的としています。
+This page contains detailed API reference documentation. It's intended to be a resource for people who already have some familiarity with Svelte.
 
-それが（まだ）あなたではない場合は、このリファレンスを参照する前に、[インタラクティブなチュートリアル](tutorial)または[例](examples)にアクセスすることをお勧めします。
+If that's not you (yet), you may prefer to visit the [interactive tutorial](tutorial) or the [examples](examples) before consulting this reference.
 
-[Discordチャットルーム](chat)で助けを求めることを恥ずかしがらないでください。
+Don't be shy about asking for help in the [Discord chatroom](chat).
 
-古いバージョンのSvelteを使用していますか？ [v2のドキュメントをご覧ください](https://v2.svelte.dev)。
+Using an older version of Svelte? Have a look at the [v2 docs](https://v2.svelte.dev).
